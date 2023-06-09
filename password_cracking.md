@@ -87,7 +87,7 @@ cd /home/kali/Desktop
 ````
 - You should notice John The Ripper cracked the passwords very quickly using the dictionary that you created.
 
-- Please Note: If you see the following message, try the command (all one line).
+- Please Note: If you see the following message, try the command:
 ````
 john shadow --wordlist=dictionary.txt –-format=crypt
 ````
